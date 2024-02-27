@@ -13,6 +13,13 @@ pnpm dev
 # or
 bun dev
 ```
+![Screenshot from 2024-02-27 12-22-46](https://github.com/Rajkumarkanthasamy/homeSale/assets/143165337/41022aef-829e-4dc5-bdf7-816a9b1b3ece)
+![Screenshot from 2024-02-27 12-23-02](https://github.com/Rajkumarkanthasamy/homeSale/assets/143165337/0e33c7f5-6337-4f41-bc12-28f608ffe830)
+![Screenshot from 2024-02-27 12-23-22](https://github.com/Rajkumarkanthasamy/homeSale/assets/143165337/5606a3cb-ac33-4c9c-87ba-8b10f80dbcad)
+
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
